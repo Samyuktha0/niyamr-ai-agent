@@ -1,0 +1,4 @@
+pypdf
+requests
+pydantic
+python-dotenv

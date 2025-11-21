@@ -1,0 +1,56 @@
+{
+    "summary": [
+        "Purpose of the Act is to alter the rates of the standard allowance, limited capability for work element and limited capability for work and work-related activity element of universal credit and the rates of income-related employment and support allowance.",
+        "Key definitions include the standard allowance, LCWRA element, LCW element, pre-2026 claimant, severe conditions criteria claimant, and ESA IR personal allowance.",
+        "Eligibility criteria include having limited capability for work and work-related activity, being a pre-2026 claimant, being a severe conditions criteria claimant, or being terminally ill.",
+        "Obligations include the Secretary of State/Department for Communities in Northern Ireland exercising relevant powers to secure minimum amounts for the standard allowance, LCWRA element, and ESA IR personal allowance.",
+        "Enforcement elements include provisions for penalties and record-keeping requirements."
+    ],
+    "sections": {
+        "definitions": "Sections 1, 2, 3, 4, 5, and Schedule 1 and 2 define key terms such as the standard allowance, LCWRA element, LCW element, pre-2026 claimant, severe conditions criteria claimant, and ESA IR personal allowance.",
+        "obligations": "Sections 1, 2, 3, 4, and 5 require the Secretary of State/Department for Communities in Northern Ireland to exercise relevant powers to secure minimum amounts for the standard allowance, LCWRA element, and ESA IR personal allowance.",
+        "responsibilities": "Sections 1, 2, 3, 4, and 5 outline the responsibilities of the Secretary of State/Department for Communities in Northern Ireland to set minimum amounts and uprate benefits.",
+        "eligibility": "Sections 2, 3, 4, and Schedule 1 and 2 specify the eligibility criteria of being a pre-2026 claimant, severe conditions criteria claimant, or terminally ill.",
+        "payments": "Sections 1, 4, and 5 outline the payment calculation and entitlement structure for the standard allowance, LCWRA element, and ESA IR personal allowance.",
+        "penalties": "There are no explicit penalty provisions in the Act.",
+        "record_keeping": "There are no explicit record-keeping or reporting requirements in the Act."
+    },
+    "rule_checks": [
+        {
+            "rule": "Act must define key terms",
+            "status": "pass",
+            "evidence": "Sections 1, 2, 3, 4, 5, and Schedule 1 and 2",
+            "confidence": 100
+        },
+        {
+            "rule": "Act must specify eligibility criteria",
+            "status": "pass",
+            "evidence": "Sections 2, 3, 4, and Schedule 1 and 2",
+            "confidence": 100
+        },
+        {
+            "rule": "Act must specify responsibilities of the administering authority",
+            "status": "pass",
+            "evidence": "Sections 1, 2, 3, 4, and 5",
+            "confidence": 100
+        },
+        {
+            "rule": "Act must include enforcement or penalties",
+            "status": "fail",
+            "evidence": "There are no explicit penalty provisions in the Act",
+            "confidence": 100
+        },
+        {
+            "rule": "Act must include payment calculation or entitlement structure",
+            "status": "pass",
+            "evidence": "Sections 1, 4, and 5",
+            "confidence": 100
+        },
+        {
+            "rule": "Act must include record-keeping or reporting requirements",
+            "status": "fail",
+            "evidence": "There are no explicit record-keeping or reporting requirements in the Act",
+            "confidence": 100
+        }
+    ]
+}
