@@ -1,0 +1,31 @@
+# =============== Secrets and Configuration ===============
+# Exclude your local environment file containing API keys
+.env
+
+# =============== Operating System and Editor Files ===============
+# Thumbnails and hidden files created by the OS
+.DS_Store
+Thumbs.db
+
+# Exclude common IDE and editor files
+.idea/
+.vscode/
+
+# =============== Virtual Environment ===============
+# Exclude the entire virtual environment directory
+venv/
+env/
+
+# =============== Python Compiled and Temporary Files ===============
+# Byte-code files
+*.pyc
+_pycache_/
+
+# Output files from analysis tools
+*.log
+*.sqlite
+*.csv
+
+# Distribution and packaging
+dist/
+build/
